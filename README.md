@@ -1,7 +1,7 @@
 # Portfolio Actuarial
 ### Máster en Ciencias Actuariales y Financieras
 
-## Sobre mí
+### Sobre mí
 Estudiante de 1º del Máster en Ciencias Actuariales y Financieras.
 Orientación hacia Actuarial Data Science aplicado al sector asegurador.
 
