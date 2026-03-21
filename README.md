@@ -19,8 +19,13 @@ Orientación hacia Actuarial Data Science aplicado al sector asegurador.
 - Consultas sobre base de datos de reclamaciones
 - Análisis de fraude con GROUP BY y filtros
 
+### Semana 4 — Modelos Estadísticos Actuariales
+- Ajuste de distribuciones por Máxima Verosimilitud (MLE)
+- Comparación de distribuciones con test Chi-cuadrado
+- Cálculo de medidas de riesgo: VaR 95%, VaR 99% y CVaR
+
 ## Tecnologías
-Python | Pandas | SQL | DuckDB | VS Code | Git
+Python | Pandas | SQL | DuckDB | Scipy | Matplotlib | VS Code | Git
 
 ## Contacto
 LinkedIn: www.linkedin.com/in/jorgevalerocarron
